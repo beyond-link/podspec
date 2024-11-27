@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
     spec.version                  = '0.1.17'
     spec.homepage                 = 'https://www.touchlab.co'
     spec.source                   = { 
-                                      :http => 'https://beyondlink.s3.eu-north-1.amazonaws.com/beyondLinkSDK-0.1.17-ac729ee5-aa03-4ca4-9502-7537857b9963.xcframework.zip',
+                                      :http => 'https://beyondlink.s3.eu-north-1.amazonaws.com/beyondLinkSDK-0.2.2-edb01826-bb1e-4772-b52f-208bb5c2bc5e.xcframework.zip',
                                       :type => 'zip',
                                       :headers => ["'Accept: application/octet-stream'"]
                                     }
