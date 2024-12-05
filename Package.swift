@@ -2,9 +2,9 @@
 import PackageDescription
 
 // BEGIN KMMBRIDGE VARIABLES BLOCK (do not edit)
-let remoteKotlinUrl = "https://beyondlink.s3.eu-north-1.amazonaws.com/beyondLinkSDK-0.3.1-a23d439d-39bf-47b3-824b-46033f6f5f3a.xcframework.zip"
-let remoteKotlinChecksum = "83b2906880e8ccf17e227bb4cff9f333b177dba567037dfe75d7ae155e9e05e6"
-let packageName = "beyondLinkSDK"
+let remoteKotlinUrl = "https://beyondlink.s3.eu-north-1.amazonaws.com/beyondlinksdk-0.3.0-81aa3cb7-77a2-493e-9289-ecb6cd873b56.xcframework.zip"
+let remoteKotlinChecksum = "3146342178fbf1492baf92413db6461399a0bdbe02798473a51d2f711406bd8e"
+let packageName = "beyondlinksdk"
 // END KMMBRIDGE BLOCK
 
 let package = Package(
